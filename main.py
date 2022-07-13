@@ -21,6 +21,7 @@ def autoketik(s):
         sys.stdout.flush()
         time.sleep(0.01)
 
+# Tanya Mau Main Lagi?
 def tanya():
     ya=input("\033[1;97mBack Tools\033[1;90m? \033[1;92m(\033[1;92my"+Fore.RED+"/\033[1;92mt\033[1;92m)"+Fore.RED+":\033[1;92m ")
     if ya == "y" or ya == "Y":
