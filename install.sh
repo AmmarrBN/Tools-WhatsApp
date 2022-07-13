@@ -37,4 +37,4 @@ pip2 install colorama bs4 requests pyfiglet tqdm
 echo -e "\u001b[32mDone installing pip!"
 echo -e "Running Tools..."
 sleep 5
-python run.py
+python main.py
